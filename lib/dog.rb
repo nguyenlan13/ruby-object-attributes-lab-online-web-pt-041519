@@ -15,3 +15,4 @@ class Dog
 end
 
 piz = Dog.new(piz)
+piz.name
