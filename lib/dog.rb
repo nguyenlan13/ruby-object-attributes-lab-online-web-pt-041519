@@ -1,6 +1,6 @@
 class Dog
   
-  def initialize(Piz)
+  def initialize(name)
     @name = name
   end
   
@@ -14,5 +14,4 @@ class Dog
  
 end
 
-piz = Dog.new(piz)
-piz.name
+new_name = Dog.new(new_name)
