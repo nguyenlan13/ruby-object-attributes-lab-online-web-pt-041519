@@ -14,4 +14,4 @@ class Dog
  
 end
 
-piz.
+piz = Dog.new(piz)
